@@ -24,6 +24,6 @@
 
 ---
 ## 🌐 Profile Visits:
-[![](https://visitcount.itsvg.in/api?id=yaelsito&icon=5&color=6)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=yaelsito&color=blueviolet&style=for-the-badge&label=VISITS" alt="Yael Massieu"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
